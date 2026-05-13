@@ -4,8 +4,6 @@
   <a href="README.fa.md">فارسی</a>
 </p>
 
----
-
 # Stay Connected
 
 A simple tool to prevent Windows from automatically disconnecting your Wi-Fi when it thinks the internet is slow or blocked.
